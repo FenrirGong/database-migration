@@ -1,0 +1,15 @@
+sql_server:
+  server: 172.21.73.210,1435
+  database: mip1
+  user: mipadm
+  password: Mip74821
+
+postgres:
+  host: 172.168.1.218
+  dbname: jiaxin
+  user: postgres
+  password: vlinkplus
+  port: 5432
+
+tables:
+  - u_storage_log

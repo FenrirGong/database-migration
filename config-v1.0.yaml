@@ -1,0 +1,17 @@
+source:
+  type: sqlserver  # 或其他数据库类型
+  config:
+    server: "172.21.73.210,1435"
+    database: "mip1"
+    user: "mipadm"
+    password: "Mip74821"
+target:
+  type: postgres  # 或其他目标数据库
+  config:
+    host: "172.168.1.218"
+    database: "test"
+    user: "postgres"
+    password: "vlinkplus"
+    port: 5432
+tables:
+  - u_storage_log
