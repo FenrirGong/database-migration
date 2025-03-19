@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-轻量级、可扩展的数据库迁移解决方案，支持MySQL/PostgreSQL/SQLite的版本控制和变更管理。
+轻量级、可扩展的数据库迁移解决方案，支持MySQL/PostgreSQL/Sqlserver/Oracle
 
 ## 📌 目录
 

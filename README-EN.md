@@ -1,10 +1,12 @@
 # Database Migration Tool 🚀
 
+选择语言：[English](README-EN.md) | [中文](README.md)
+
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-A lightweight and extensible database migration solution that supports version control and change management for MySQL, PostgreSQL, and SQLite.
+A lightweight and extensible database migration solution that supports for MySQL, PostgreSQL,Oracle and Sqlserver.
 
 ## 📌 Table of Contents
 
